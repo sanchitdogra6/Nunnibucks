@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'Monument';
+    src: url('fonts/Monument.otf') format('otf');
+}
+
+
 body {
     margin: 0;
     padding: 0;
